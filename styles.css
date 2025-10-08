@@ -5,14 +5,14 @@ body {
 }
 
 .banner {
-    background-color: #1a1a2e;
+    background-color: #00008B;
     color: white;
     text-align: center;
     padding: 20px;
 }
 
 .footer {
-    background-color: #1a1a2e;
+    background-color: #00008B;
     color: white;
     text-align: center;
     padding: 10px;
@@ -49,3 +49,4 @@ body {
     padding: 20px;
     box-sizing: border-box;
 }
+
